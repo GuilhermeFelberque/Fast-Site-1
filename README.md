@@ -149,4 +149,4 @@ A senha diferencia maiúsculas de minúsculas.
 
 ## Autor
 
-Seu Nome — [seu-usuario](https://github.com/seu-usuario)
+Guilherme Felberque Eucaristico
